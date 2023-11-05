@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34212.112
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setsu.Results", "Setsu.Results.csproj", "{FEB8F64C-0C32-449A-ABEB-C31F76F6144D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Setsu.Results", "Setsu.Results\Setsu.Results.csproj", "{7E3B70D7-14EB-4BA6-843F-519B336C0D2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FEB8F64C-0C32-449A-ABEB-C31F76F6144D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEB8F64C-0C32-449A-ABEB-C31F76F6144D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEB8F64C-0C32-449A-ABEB-C31F76F6144D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEB8F64C-0C32-449A-ABEB-C31F76F6144D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3B70D7-14EB-4BA6-843F-519B336C0D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3B70D7-14EB-4BA6-843F-519B336C0D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3B70D7-14EB-4BA6-843F-519B336C0D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3B70D7-14EB-4BA6-843F-519B336C0D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
